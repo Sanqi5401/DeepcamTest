@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/drawer_logout"
+            android:icon="@mipmap/logout_drawer_icon"
+            android:title="@string/logout" />
+
+        <item
+            android:id="@+id/drawer_register"
+            android:icon="@mipmap/account_drawer_icon"
+            android:title="@string/register_title" />
+
+        <item
+            android:id="@+id/drawer_recognition"
+            android:icon="@mipmap/recognition_drawer_icon"
+            android:title="@string/recognition_title" />
+
+        <item
+            android:id="@+id/drawer_users"
+            android:icon="@mipmap/users_drawer_icon"
+            android:title="@string/users_title" />
+
+
+        <item
+            android:id="@+id/drawer_help"
+            android:icon="@mipmap/help_drawer_icon"
+            android:title="@string/help_title" />
+
+
+    </group>
+</menu>

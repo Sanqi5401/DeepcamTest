@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml:2:1-31
+		INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml
+		INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml
+		ADDED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml:1:1-5:12
+		INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml
+		ADDED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml:1:1-5:12
+		INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml:4:1-16
+uses-sdk
+INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml
+INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml
+INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml
+INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml
+		ADDED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml
+		INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml
+		ADDED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml
+		INJECTED from /home/zsq/AndroidStudioProjects/DeepcamAccess/library/src/main/AndroidManifest.xml

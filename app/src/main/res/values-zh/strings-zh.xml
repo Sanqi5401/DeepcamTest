@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_title">错误</string>
+    <string name="success_title">成功</string>
+
+
+    <string name="logout">注销</string>
+    <string name="register_title">注册</string>
+    <string name="recognition_title">识别</string>
+    <string name="users_title">用户</string>
+    <string name="help_title">帮助</string>
+
+
+    <string name="single_register_title">单个用户注册</string>
+    <string name="name_title">姓名</string>
+    <string name="gender_title">性别</string>
+    <string name="employee_number_title">员工号</string>
+    <string name="sector_title">部门</string>
+
+    <string name="bulk_registration">批量注册</string>
+
+    <string name="data_path_title">数据地址</string>
+    <string name="pic_path_title">图片地址</string>
+    <string name="select">选择</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Demo</string>
+
+    <string name="error_title">Error</string>
+    <string name="success_title">Success</string>
+
+
+    <string name="logout">Logout</string>
+    <string name="register_title">Register</string>
+    <string name="recognition_title">Recognition</string>
+    <string name="users_title">Users</string>
+    <string name="help_title">Help</string>
+
+    <string name="single_register_title">Single Register</string>
+    <string name="name_title">Name</string>
+    <string name="gender_title">Gender</string>
+    <string name="employee_number_title">Number</string>
+    <string name="sector_title">Sector</string>
+
+
+    <string name="bulk_registration">Bulk Registration</string>
+    <string name="data_path_title">Data Path</string>
+    <string name="pic_path_title">Picture Path</string>
+    <string name="select">Select</string>
+</resources>
